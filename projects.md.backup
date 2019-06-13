@@ -1,0 +1,34 @@
+# Projects
+
+Here is a list of projects that I used to participate in. Unfortunately, I cannot provide the code or any details for the company projects.
+
+### New-Airbnb
+
+- **Type**: 2019 Winter ECE651 Project
+- **Introduction**: New-Airbnb is a website that mimics and achieves the main functions of airbnb.
+- **Technical Stack**: Python, Django, MongoDB, Heroku.
+- **Contribution**: Implemented and maintained the backend of the website, cooperated with [Jiangqi Zhang](https://github.com/zhangjiangqige).
+- **Find it at**: [Github](https://github.com/new-airbnb).
+
+### ASR-Backend
+
+- **Type**: Company Project
+- **Introduction**: ASR-Backend is the backend service for an ASR engine.
+- **Technical Stack**: Python, Tornado, Paddle-Paddle.
+- **Contribution**: Developed the backend service. Using coroutines to implement asynchronous.
+
+### Dianping-Crawler
+
+- **Type**: Company Project
+- **Introduction**: Dianping-Crawler is a crawler for dianping.com.
+- **Technical Stack**: Python, RabbitMQ, MongoDB, Docker.
+- **Contribution**: Designed and maintained the crawler. Using RabbitMQ as the message queue to send tasks, MongoDB to store the information of stores.
+
+### Q&A-Robot
+
+- **Type**: Company Project
+- **Introduction**: Q&A-Robot is a widget for pre-sales advice.
+- **Technical Stack**: Python, Flask, TuringAPI.
+- **Contribution**: By using the Jieba text segmentation and turing api, I implemented a Q&A robot api to talk with the customers.
+
+To be released.
